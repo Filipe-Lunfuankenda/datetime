@@ -19,7 +19,9 @@
         const minutos = String(agora.getMinutes()).padStart(2, "0")
         const segundos = String(agora.getSeconds()).padStart(2, "0")
         const time = `${hora}:${minutos}:${segundos}`
-        document.getElementById("dia").textContent = day document.getElementById("data").textContent = data document.getElementById("tempo").textContent = time
+        document.getElementById("dia").textContent = day
+        document.getElementById("data").textContent = data
+        document.getElementById("tempo").textContent = time
         setTimeout(clock, 1000)
 }
         clock()
