@@ -1,0 +1,11 @@
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\bin\Debug\Digital Clock Demo.exe.config
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\bin\Debug\Digital Clock Demo.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\bin\Debug\Digital Clock Demo.pdb
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\obj\Debug\Digital Clock Demo.csproj.AssemblyReference.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\obj\Debug\Digital Clock Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\obj\Debug\Digital_Clock_Demo.Form1.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\obj\Debug\Digital_Clock_Demo.Properties.Resources.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\obj\Debug\Digital Clock Demo.csproj.GenerateResource.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\obj\Debug\Digital Clock Demo.csproj.CoreCompileInputs.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\obj\Debug\Digital Clock Demo.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Digital Clock Demo\Digital Clock Demo\obj\Debug\Digital Clock Demo.pdb
