@@ -3,6 +3,6 @@ function displayDateTime() {
     const dataFormatada = dataHoraAtual.toLocaleString();
     const horaFormatada = dataHoraAtual.toLocaleTimeString();
 
-    console.log(`${dataFormatada}`)
+    console.log(`${dataFormatada} ${horaFormatada}`)
 }
 displayDateTime()
