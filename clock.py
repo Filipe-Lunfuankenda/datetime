@@ -1,3 +1,4 @@
+#Creating a graphic clock using module PySimpleGUI
 import PySimpleGUI as sg
 import datetime
 
