@@ -14,6 +14,6 @@ int main() {
 	int minutos = tempo_info->tm_min;
 	int segundos = tempo_info->tm_sec;
 	
-	printf("Data e hora de hoje: %02d/%02d/%d	%02d:%02d:%02d\n", tm.tm_mday, tm.tm_mon + 1, tm.tm_year + 1900, hora, minutos, segundos);
+	printf("Data e hora de hoje: %02d/%02d/%d  %02d:%02d:%02d\n", tm.tm_mday, tm.tm_mon + 1, tm.tm_year + 1900, hora, minutos, segundos);
 	return 0;
 }
